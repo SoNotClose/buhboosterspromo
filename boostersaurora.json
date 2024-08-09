@@ -1,19 +1,8 @@
 {
     "boosters": [
-        "Booster1",
-        "Booster2",
-        "Booster3",
-        "Booster1",
-        "Booster2",
-        "Booster3",
-        "Booster1",
-        "Booster2",
-        "Booster3",
-        "Booster1",
-        "Booster2",
-        "Booster3",
-        "Booster3",
-        "Booster3",
-        "Booster3"
+        { "name": "SoNotClose", "tierTag": "T3" },
+        { "name": "Rexxy", "tierTag": "T2" },
+        { "name": "Alice", "tierTag": "T1" },
+        { "name": "Zane", "tierTag": "T3" }
     ]
 }
