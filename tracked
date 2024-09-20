@@ -1,0 +1,14 @@
+[
+    {
+        "displayName": "Player1",
+        "Id": "Player1_ID",
+        "tier": "Bronze",
+        "tracked": true
+    },
+    {
+        "displayName": "Player2",
+        "Id": "Player2_ID",
+        "tier": "Silver",
+        "tracked": false
+    }
+]
