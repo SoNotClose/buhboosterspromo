@@ -1,64 +1,14 @@
-{
-  "minecraft": {
-    "version": "1.19.2",
-    "modLoaders": [
-      {
-        "id": "forge-43.3.0",
-        "primary": true
-      }
-    ]
-  },
-  "manifestType": "minecraftModpack",
-  "manifestVersion": 1,
-  "name": "tnt mod",
-  "version": "tnt-mod-1.19.2-.zip",
-  "author": "",
-  "files": [
+[
     {
-      "projectID": 895335,
-      "fileID": 4666967,
-      "required": true
+        "displayName": "Player1real",
+        "Id": "	F498891D5787B18D",
+        "tier": "DEV",
+        "tracked": true
     },
     {
-      "projectID": 545405,
-      "fileID": 4648207,
-      "required": true
-    },
-    {
-      "projectID": 678042,
-      "fileID": 4648191,
-      "required": true
-    },
-    {
-      "projectID": 484302,
-      "fileID": 4433349,
-      "required": true
-    },
-    {
-      "projectID": 238222,
-      "fileID": 4712866,
-      "required": true
-    },
-    {
-      "projectID": 688364,
-      "fileID": 4729447,
-      "required": true
-    },
-    {
-      "projectID": 867893,
-      "fileID": 4771516,
-      "required": true
-    },
-    {
-      "projectID": 854053,
-      "fileID": 4598742,
-      "required": true
-    },
-    {
-      "projectID": 851794,
-      "fileID": 4845489,
-      "required": true
+        "displayName": "Player2",
+        "Id": "Player2_ID",
+        "tier": "Silver",
+        "tracked": false
     }
-  ],
-  "overrides": "overrides"
-}
+]
